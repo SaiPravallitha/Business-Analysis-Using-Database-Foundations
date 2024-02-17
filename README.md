@@ -6,7 +6,7 @@ This project focuses on creating a database using a 6GB dataset from Kaggle, nam
 
 ## Key Steps and Analysis
 ### Dataset Selection
-Dataset (called Bay Area Bike Share) concerning bike travels around the San Francisco Bay Area was selected from the website kaggle.com [check here](#https://www.kaggle.com/).
+Dataset (called Bay Area Bike Share) concerning bike travels around the San Francisco Bay Area was selected from the website kaggle. [check here](https://www.kaggle.com/).
 - station.csv
 - status.csv
 - trip.csv
